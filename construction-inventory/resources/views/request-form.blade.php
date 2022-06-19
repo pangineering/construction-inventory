@@ -5,5 +5,5 @@
 
  
 @section('content')
-   <h1>Inventory Dashboard</h1>
+    <h1>Request Form</h1>
 @stop
